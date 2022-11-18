@@ -1,4 +1,4 @@
-<img src="(https://github.com/mb21/panwriter/raw/master/icons/icon.png)" alt="drawing" width="200"/>
+<img src="https://github.com/mb21/panwriter/raw/master/icons/icon.png" alt="drawing" width="200"/>
 
 Candidate number: 236636
 
