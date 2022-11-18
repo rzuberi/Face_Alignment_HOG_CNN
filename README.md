@@ -7,5 +7,13 @@ There is a PDF report [here](https://github.com/rzuberi/Face_Alignment_HOG_CNN/b
 
 There is a Python Notebook [here](https://github.com/rzuberi/Face_Alignment_HOG_CNN/blob/main/HOG_CNN_implementation_CV_Assignment_236636.ipynb) that displays the data manipulation performed and the training of the CNN.
 
-## Results
+## Face alignment task
+### 1. Face alignment training and prediction methods
+
+### 2. Results of face alignment
 <img width="1185" alt="Screenshot 2022-11-18 at 14 49 40" src="https://user-images.githubusercontent.com/56508673/202732253-149130be-04c0-480c-abd4-e93d6433ebea.png">
+
+## Lip coloring task
+### 1. Lip coloring method
+
+### 2. Results of lip coloring
