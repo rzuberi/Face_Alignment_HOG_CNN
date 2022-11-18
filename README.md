@@ -12,6 +12,7 @@ There is a Python Notebook [here](https://github.com/rzuberi/Face_Alignment_HOG_
 
 ### 2. Results of face alignment
 <img width="1185" alt="Screenshot 2022-11-18 at 14 49 40" src="https://user-images.githubusercontent.com/56508673/202732253-149130be-04c0-480c-abd4-e93d6433ebea.png">
+Plotting the 12 best and worst predictions made by our HOG-CNN model on our evaluation set with their Euclidean distance.
 
 ## Lip coloring task
 ### 1. Lip coloring method
