@@ -1,3 +1,7 @@
+![](https://github.com/mb21/panwriter/raw/master/icons/icon.png){width=128 align=right}
+
+# PanWriter
+
 Candidate number: 236636
 
 Module: Computer Vision G6032
